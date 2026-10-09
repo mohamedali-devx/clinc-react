@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Braces",
+        "desc": "Straighten your teeth with modern, comfortable braces.",
+        "image": "https://images.unsplash.com/photo-1598256989809-394fa4f6cd26?fm=jpg&q=60&w=800&auto=format&fit=crop"
+    },
+    {
+        "id": 2,
+        "title": "Hollywood Smile",
+        "desc": "Get a bright, perfect smile with veneers and cosmetic work.",
+        "image": "https://images.unsplash.com/photo-1677026010083-78ec7f1b84ed?fm=jpg&q=60&w=800&auto=format&fit=crop"
+    },
+    {
+        "id": 3,
+        "title": "Root Canal",
+        "desc": "Painless nerve treatment to save your tooth.",
+        "image": "https://images.unsplash.com/photo-1667133295315-820bb6481730?fm=jpg&q=60&w=800&auto=format&fit=crop"
+    },
+    {
+        "id": 4,
+        "title": "Teeth Whitening",
+        "desc": "Remove stains and brighten your teeth in one visit.",
+        "image": "https://images.unsplash.com/photo-1564420228450-d9a5bc8d6565?fm=jpg&q=60&w=800&auto=format&fit=crop"
+    }
+]

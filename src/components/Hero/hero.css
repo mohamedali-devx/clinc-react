@@ -1,0 +1,32 @@
+.hero {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 40px 20px;
+    background: linear-gradient(135deg, #e6f7f7, white);
+}
+
+.hero-text {
+    max-width: 450px;
+}
+
+.hero-text h2 {
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+.hero-text p {
+    margin: 20px 0 30px;
+    color: gray;
+    line-height: 1.8;
+}
+
+.hero img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 20px;
+    box-shadow: 0 15px 40px rgba(14, 164, 164, 0.3);
+}

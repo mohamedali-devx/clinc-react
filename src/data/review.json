@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sara Mohamed",
+        "rating": 5,
+        "text": "Painless treatment and a very friendly team. I love my new smile!"
+    },
+    {
+        "id": 2,
+        "name": "Ahmed Hassan",
+        "rating": 5,
+        "text": "Clean clinic and the doctor explained everything step by step."
+    },
+    {
+        "id": 3,
+        "name": "Mona Adel",
+        "rating": 4,
+        "text": "My braces journey was smooth, and the appointments were always on time."
+    }
+]
