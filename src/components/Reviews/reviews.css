@@ -1,0 +1,25 @@
+.reviews {
+    background-color: #e6f7f7;
+}
+
+.reveiw-card {
+    padding: 30px 25px;
+    color: var(--main);
+}
+
+.reveiw-card h3 {
+    margin: 10px 0 5px;
+}
+
+.stars {
+    color: rgb(255, 191, 0);
+}
+
+.reveiw-card .content {
+    color: gray;
+    line-height: 1.7;
+}
+
+svg {
+    font-size: 48px;
+}
